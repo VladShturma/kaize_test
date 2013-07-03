@@ -1,4 +1,6 @@
 source :rubygems
 
-gem "minitest"
+gem "minitest", "~>5"
 gem "rake"
+gem "activesupport"
+
