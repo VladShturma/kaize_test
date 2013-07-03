@@ -1,2 +1,5 @@
 require "minitest/autorun"
-
+require "the_truth"
+require "reverse"
+require "hello_world"
+require "maximum"
