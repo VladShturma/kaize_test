@@ -1,5 +1,7 @@
 require 'simplecov'
+require 'coveralls'
 SimpleCov.start
+Coveralls.wear!
 require "minitest/autorun"
 require "active_support/core_ext/string"
 
